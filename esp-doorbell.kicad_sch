@@ -3660,6 +3660,10 @@
 		(uuid "ef0db7d5-d551-4f57-bc7b-7d95a1a9d82f")
 	)
 	(no_connect
+		(at 219.71 74.93)
+		(uuid "0cac2757-9e26-490d-a4db-f4988d1090c8")
+	)
+	(no_connect
 		(at 231.14 30.48)
 		(uuid "190137e4-b574-46ec-85aa-dd2f56ecda9f")
 	)
@@ -4264,16 +4268,6 @@
 			(type default)
 		)
 		(uuid "8401cd93-9fa2-40c4-8288-df50eed62b2f")
-	)
-	(wire
-		(pts
-			(xy 219.71 74.93) (xy 219.71 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8750226b-0335-4d01-ab12-ffee6d6b68cf")
 	)
 	(wire
 		(pts
